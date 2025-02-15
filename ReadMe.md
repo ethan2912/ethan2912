@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm currently working on "Minecraft Stock Market or Economy Simulator"
+✌️ I'm currently working on "Minecraft Stock Market or Economy Simulator"
+Highly motivated and analytical Data Analyst with expertise in statistical modeling, data
+visualization, and machine learning techniques. Proficient in tools like Python, R, SQL,
+and Power BI, with a proven ability to turn complex datasets into actionable insights.
+Experienced in designing and implementing data-driven solutions to real-world challenges,
+delivering measurable results in both academic and professional settings. Adept at
+collaborating across teams and communicating effectively to drive business success. Skilled
+in problem-solving and adaptable to fast-paced environments. Fluent in English, Hindi,
+and Marathi, with a global perspective and strong commitment to excellence
 
 
 ## 🌐 Socials:
